@@ -1,0 +1,26 @@
+# revised from reaction_v1.txt.0
+# KpN1_off, KpN2_off, KpC1_off, KpC2_off, autophosphorylation recalculated
+# C2_off*5
+
+species ca
+species cam
+
+molecule_lists total
+mol_list * total
+
+
+sites	ca		@cam 
+sites	cam 	@C
+
+dif_sites	ca 		cam
+
+
+#--------------------------------------------
+# use parameters from Pepke et al.2010
+define k_on	8548.5714
+define k_off 0.0784
+
+reaction cam-ca	cam{C==0} + ca{cam==0} -> cam[C=1]~ca[cam=1]	k_on
+reaction cam-ca_r	cam{C==1}~ca{cam==1}->cam[C=0] + ca[cam=0]	k_off
+
+reaction end
