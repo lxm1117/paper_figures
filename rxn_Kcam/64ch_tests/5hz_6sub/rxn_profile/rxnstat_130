@@ -1,0 +1,17 @@
+      6 KcamC1~ca 20 1
+      3 KcamC1~ca_r 16 0
+      9 KcamN1~ca 17 1
+      8 KcamN1~ca_r 16 0
+      1 KcamN2~ca 19 1
+      1 KcamN2~ca_r 17 0
+    156 bK-camN0C0 1 16
+     54 bK-camN0C0_r 0 0
+      2 bK-camN0C1 1 20
+     70 camC1-ca 4 1
+     39 camC1-ca_r 0 0
+   1307 camN1-ca 1 1
+      6 camN1-ca 5 1
+   1276 camN1-ca_r 0 0
+      6 camN1-ca_r 4 0
+      3 camN2-ca 3 1
+      2 camN2-ca_r 1 0
