@@ -1,0 +1,134 @@
+> /home/neuro/Downloads/models/cacam_models/camkii/Ng-cam/cam2/5hz_6sub_Ngcam0_cam2/rxn_process.py(26)<module>()
+-> f.write(rxn_part)
+(Pdb) Traceback (most recent call last):
+  File "rxn_process.py", line 26, in <module>
+    f.write(rxn_part)
+  File "rxn_process.py", line 26, in <module>
+    f.write(rxn_part)
+  File "/home/neuro/miniconda2/lib/python2.7/bdb.py", line 49, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/home/neuro/miniconda2/lib/python2.7/bdb.py", line 67, in dispatch_line
+    self.user_line(frame)
+  File "/home/neuro/miniconda2/lib/python2.7/pdb.py", line 158, in user_line
+    self.interaction(frame, None)
+  File "/home/neuro/miniconda2/lib/python2.7/pdb.py", line 210, in interaction
+    self.cmdloop()
+  File "/home/neuro/miniconda2/lib/python2.7/cmd.py", line 130, in cmdloop
+    line = raw_input(self.prompt)
+IOError: [Errno 9] Bad file descriptor
+110
+115
+120
+125
+130
+135
+140
+145
+150
+155
+160
+165
+170
+175
+180
+185
+190
+195
+200
+205
+210
+358
+363
+368
+373
+381
+393
+416
+421
+426
+431
+436
+441
+446
+451
+456
+492
+534
+539
+544
+549
+572
+584
+590
+595
+600
+605
+626
+635
+676
+681
+686
+691
+718
+723
+750
+755
+760
+767
+773
+780
+790
+795
+800
+807
+812
+820
+825
+830
+835
+840
+846
+859
+889
+894
+913
+918
+923
+960
+972
+977
+989
+996
+1013
+1018
+1023
+1041
+1062
+1067
+1072
+1077
+1082
+1117
+1122
+1127
+1171
+1176
+1181
+1186
+1191
+1249
+1254
+1259
+1264
+1269
+1274
+1279
+1284
+1289
+1294
+1299
+1477
+1482
+1487
+1492
+1497
