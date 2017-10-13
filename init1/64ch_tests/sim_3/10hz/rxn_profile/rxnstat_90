@@ -1,153 +1,84 @@
      64 bK-camN0C0 0 16
      25 bK-camN0C0_r 16 0
-    115 bK-camN0C1 4 20
-      1 bK-camN0C1 5 21
+    116 bK-camN0C1 4 20
       5 bK-camN0C1_r 20 4
-    628 bK-camN0C2 12 28
-      3 bK-camN0C2 13 29
-     46 bK-camN0C2_r 28 12
-      1 bK-camN0C2_r 29 13
+    631 bK-camN0C2 12 28
+     47 bK-camN0C2_r 28 12
      23 bK-camN1C0 1 17
     120 bK-camN1C1 5 21
       3 bK-camN1C1_r 21 5
-    440 bK-camN1C2 13 29
-      6 bK-camN1C2 14 30
-     44 bK-camN1C2_r 29 13
-      1 bK-camN1C2_r 30 14
-      1 bK-camN1C2_r 31 15
-    122 bK-camN2C0 3 19
-      1 bK-camN2C0 4 20
+    446 bK-camN1C2 13 29
+     46 bK-camN1C2_r 29 13
+    123 bK-camN2C0 3 19
       3 bK-camN2C0_r 19 3
-    553 bK-camN2C1 7 23
-      4 bK-camN2C1 8 24
+    557 bK-camN2C1 7 23
       8 bK-camN2C1_r 23 7
-    754 bK-camN2C2 15 31
-      2 bK-camN2C2 16 32
-      1 bK-camN2C2 17 33
+    757 bK-camN2C2 15 31
      85 bK-camN2C2_r 31 15
-      2 bKpcamN0C2 
-      1 bKpcamN0C2_p 
-      2 bKpcamN1C1 
-      8 bKpcamN1C2 
-      1 bKpcamN1C2_p 
-      2 bKpcamN2C0 
-      4 bKpcamN2C1 
-    107 bKpcamN2C2 
-      4 bKpcamN2C2_p 
-   4822 camC1-ca 0 4
-    968 camC1-ca 1 5
-      7 camC1-ca 2 6
-    780 camC1-ca 3 7
-      4 camC1-ca 4 8
-      1 camC1-ca 5 9
-   2328 camC1-ca_r 4 0
-    446 camC1-ca_r 5 1
-      7 camC1-ca_r 6 2
-    342 camC1-ca_r 7 3
-      3 camC1-ca_r 8 4
-   1679 camC2-ca 4 12
-    246 camC2-ca 5 13
-      3 camC2-ca 6 14
-    227 camC2-ca 7 15
-      2 camC2-ca 8 16
-      1 camC2-ca 9 17
-    138 camC2-ca_r 12 4
-     21 camC2-ca_r 13 5
+      2 bKpcamN0C2 28 60
+      1 bKpcamN0C2_p 28 60
+      2 bKpcamN1C1 21 53
+      8 bKpcamN1C2 29 61
+      1 bKpcamN1C2_p 29 61
+      2 bKpcamN2C0 19 51
+      4 bKpcamN2C1 23 55
+    107 bKpcamN2C2 31 63
+      4 bKpcamN2C2_p 31 63
+   4847 camC1-ca 0 4
+    953 camC1-ca 1 5
+    782 camC1-ca 3 7
+   2341 camC1-ca_r 4 0
+    442 camC1-ca_r 5 1
+    343 camC1-ca_r 7 3
+   1691 camC2-ca 4 12
+    238 camC2-ca 5 13
+    229 camC2-ca 7 15
+    140 camC2-ca_r 12 4
+     19 camC2-ca_r 13 5
       7 camC2-ca_r 15 7
-  92560 camN1-ca 0 1
-    298 camN1-ca 1 2
-   8859 camN1-ca 12 13
-     54 camN1-ca 13 14
-      7 camN1-ca 14 15
-      4 camN1-ca 16 17
-     43 camN1-ca 2 3
-      4 camN1-ca 3 4
-  30730 camN1-ca 4 5
-    165 camN1-ca 5 6
-     10 camN1-ca 6 7
-     16 camN1-ca 8 9
-  91152 camN1-ca_r 1 0
-   8197 camN1-ca_r 13 12
-     51 camN1-ca_r 14 13
-      8 camN1-ca_r 15 14
-      4 camN1-ca_r 17 16
-    320 camN1-ca_r 2 1
-     49 camN1-ca_r 3 2
-      4 camN1-ca_r 4 3
-  30467 camN1-ca_r 5 4
-    167 camN1-ca_r 6 5
-     13 camN1-ca_r 7 6
-      1 camN1-ca_r 8 7
-     16 camN1-ca_r 9 8
-  17489 camN2-ca 1 3
-   1440 camN2-ca 13 15
-      5 camN2-ca 14 16
-      2 camN2-ca 17 19
-     55 camN2-ca 2 4
-      9 camN2-ca 3 5
-   5040 camN2-ca 5 7
-     24 camN2-ca 6 8
-      3 camN2-ca 7 9
-      2 camN2-ca 9 11
-      2 camN2-ca_r 11 9
-    983 camN2-ca_r 15 13
-      4 camN2-ca_r 16 14
-      2 camN2-ca_r 19 17
-  16812 camN2-ca_r 3 1
-     52 camN2-ca_r 4 2
-     15 camN2-ca_r 5 3
-   4681 camN2-ca_r 7 5
-     17 camN2-ca_r 8 6
-      3 camN2-ca_r 9 7
+  92918 camN1-ca 0 1
+   8924 camN1-ca 12 13
+  30908 camN1-ca 4 5
+  91539 camN1-ca_r 1 0
+   8260 camN1-ca_r 13 12
+  30650 camN1-ca_r 5 4
+  17556 camN2-ca 1 3
+   1447 camN2-ca 13 15
+   5066 camN2-ca 5 7
+    989 camN2-ca_r 15 13
+  16883 camN2-ca_r 3 1
+   4699 camN2-ca_r 7 5
     160 KcamC1~ca 16 20
      75 KcamC1~ca 17 21
-    302 KcamC1~ca 19 23
-      1 KcamC1~ca 20 24
+    303 KcamC1~ca 19 23
      23 KcamC1~ca_r 20 16
      22 KcamC1~ca_r 21 17
     138 KcamC1~ca_r 23 19
-    178 KcamC2~ca 20 28
-    199 KcamC2~ca 21 29
-      2 KcamC2~ca 22 30
-   1083 KcamC2~ca 23 31
-      5 KcamC2~ca 24 32
-      2 KcamC2~ca 25 33
+    179 KcamC2~ca 20 28
+    200 KcamC2~ca 21 29
+   1090 KcamC2~ca 23 31
      43 KcamC2~ca_r 28 20
      54 KcamC2~ca_r 29 21
-    321 KcamC2~ca_r 31 23
-      2 KcamC2~ca_r 33 25
+    323 KcamC2~ca_r 31 23
     223 KcamN1~ca 16 17
     344 KcamN1~ca 20 21
-   3453 KcamN1~ca 28 29
-     12 KcamN1~ca 29 30
-     13 KcamN1~ca 30 31
+   3478 KcamN1~ca 28 29
     129 KcamN1~ca_r 17 16
     243 KcamN1~ca_r 21 20
-   3151 KcamN1~ca_r 29 28
-     14 KcamN1~ca_r 30 29
-     17 KcamN1~ca_r 31 30
+   3182 KcamN1~ca_r 29 28
     125 KcamN2~ca 17 19
-    377 KcamN2~ca 21 23
-      1 KcamN2~ca 22 24
-   4352 KcamN2~ca 29 31
-     17 KcamN2~ca 30 32
-     10 KcamN2~ca 31 33
+    378 KcamN2~ca 21 23
+   4379 KcamN2~ca 29 31
      63 KcamN2~ca_r 19 17
-    263 KcamN2~ca_r 23 21
-      1 KcamN2~ca_r 24 22
-   3867 KcamN2~ca_r 31 29
-     14 KcamN2~ca_r 32 30
-     10 KcamN2~ca_r 33 31
-      1 KcamN2~ca_r 39 37
-      1 KpcamC1~ca 19 23
-      2 KpcamC2~ca 21 29
-      6 KpcamC2~ca 23 31
-      5 KpcamC2~ca_r 31 23
-     12 KpcamN1~ca 28 29
-     13 KpcamN1~ca_r 29 28
-      1 KpcamN2~ca 21 23
-     56 KpcamN2~ca 29 31
-      3 KpcamN2~ca 45 47
-      2 KpcamN2~ca_r 23 21
-     69 KpcamN2~ca_r 31 29
-      3 KpcamN2~ca_r 47 45
+    264 KcamN2~ca_r 23 21
+   3892 KcamN2~ca_r 31 29
+      1 KpcamC1~ca 51 55
+      2 KpcamC2~ca 53 61
+      6 KpcamC2~ca 55 63
+      5 KpcamC2~ca_r 63 55
+     12 KpcamN1~ca 60 61
+     13 KpcamN1~ca_r 61 60
+      1 KpcamN2~ca 53 55
+     59 KpcamN2~ca 61 63
+      2 KpcamN2~ca_r 55 53
+     72 KpcamN2~ca_r 63 61
