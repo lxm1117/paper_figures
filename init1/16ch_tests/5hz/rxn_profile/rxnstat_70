@@ -15,7 +15,7 @@
      22 bK-camN2C1 7 23
       6 bK-camN2C2 15 31
       3 bK-camN2C2_r 31 15
-      1 bKpcamN2C2 
+      1 bKpcamN2C2 31 63
    1595 camC1-ca 0 4
      75 camC1-ca 1 5
      19 camC1-ca 3 7
@@ -26,13 +26,11 @@
      11 camC2-ca 5 13
       2 camC2-ca 7 15
      15 camC2-ca_r 12 4
-  30996 camN1-ca 0 1
-      3 camN1-ca 1 2
+  30999 camN1-ca 0 1
     238 camN1-ca 12 13
    3054 camN1-ca 4 5
-  30758 camN1-ca_r 1 0
+  30762 camN1-ca_r 1 0
     237 camN1-ca_r 13 12
-      4 camN1-ca_r 2 1
    3030 camN1-ca_r 5 4
    1530 camN2-ca 1 3
       8 camN2-ca 13 15
